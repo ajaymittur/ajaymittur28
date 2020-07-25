@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Ajay 👋 
+### and this is what I basically do 👇
+
+![](https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif)
+
 
 <!--
 **ajaymittur28/ajaymittur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
