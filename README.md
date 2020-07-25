@@ -1,7 +1,12 @@
 ## Hi there, I'm Ajay 👋 
-### and this is what I basically do 👇
 
-![](https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif)
+<p align="right"><strong>This is what I basically do</strong> 👇</p>
+<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" />
+
+- 💾 I’m currently a _3rd Year Computer Science Undergrad_
+- 💬 Ask me about _anything really! even if I have 0 idea about it, will learn a thing or two!_
+- 📫 How to reach me: _Hit one of 'em links in my actual bio_ 👈
+- ⚡ Something Really Cool: _The most impressive technology in the world today all boils down to just 2 things, an **on (1)** or an **off (0)**_
 
 _Scroll down_ ⬇ to look at some of the projects I've worked on or _gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to feast your eyes on **EVEN MORE** github light theme code 😉
 
