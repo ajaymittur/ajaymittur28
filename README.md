@@ -3,6 +3,7 @@
 
 ![](https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif)
 
+_Scroll down_ ⬇ to look at some of the projects I've worked on or _gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to feast your eyes on **EVEN MORE** github light theme code 😉
 
 <!--
 **ajaymittur28/ajaymittur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
