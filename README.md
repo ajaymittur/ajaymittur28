@@ -1,6 +1,6 @@
 ## Hi there, I'm Ajay 👋 
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2vr5VeJ0LBikfNHwpI/giphy.gif" height="200px" width="200px" />
 
 ### About Me 🤘: 
 
