@@ -9,9 +9,9 @@
 - 📫 How to reach me: _Hit one of 'em links in my actual bio_ 👈
 - ⚡ Interesting Thought: _The most impressive technology in the world today all boils down to just 2 things, an **on (1)** or an **off (0)**_
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaymittur28&count_private=true&show_icons=true&theme=synthwave)
+_Gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to check out my repos!
 
-_Scroll down_ ⬇ to look at some of the projects I've worked on or _gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to feast your eyes on **EVEN MORE** github light theme code 😉
+![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaymittur28&count_private=true&show_icons=true&hide_border=true)
 
 <!--
 **ajaymittur28/ajaymittur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
