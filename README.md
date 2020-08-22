@@ -13,6 +13,8 @@ _Gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to c
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaymittur28&count_private=true&show_icons=true&hide_border=true)
 
+![Ajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymittur28&layout=compact)
+
 <!--
 **ajaymittur28/ajaymittur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
