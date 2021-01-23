@@ -11,9 +11,7 @@
 
 _Gimme a high-five_ [✋](https://github.com/ajaymittur28?tab=repositories) to check out my repos!
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaymittur28&count_private=true&show_icons=true&hide_border=true)
-
-![Ajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymittur28&layout=compact)
+![My Metrics](https://metrics.lecoq.io/ajaymittur28?template=classic&activity=1&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 <!--
 **ajaymittur28/ajaymittur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
