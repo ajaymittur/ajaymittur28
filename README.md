@@ -4,7 +4,7 @@
 
 ### About Me 🤘: 
 
-- 💾 I’m currently a _3rd Year Computer Science Undergrad_
+- 💾 I’m Software Developer at Amazon
 - 💬 Ask me about _anything really! even if I have 0 idea about it, will learn a thing or two!_
 - 📫 How to reach me: _Hit one of 'em links in my actual bio_ 👈
 - ⚡ Interesting Thought: _The most impressive technology in the world today all boils down to just 2 things, an **on (1)** or an **off (0)**_
